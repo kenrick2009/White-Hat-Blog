@@ -1,0 +1,40 @@
+
+body{
+    background: linear-gradient(#ff0400 0%,#ff00aa 100%);
+    text-align: center;
+    
+        
+}
+
+
+
+
+
+
+.imagesection{
+    display:flex;
+    justify-content: center
+}
+.imagesection2{
+    display:flex;
+    justify-content: center
+}
+img{
+    height: 300px;
+}
+.set{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+#river{
+    width: 421px;
+}
+p{
+    font size:35px;
+}
+h1{
+    font-size: 50px;
+}
+div{
+    margin-top: 15px;
+}
